@@ -3,5 +3,6 @@ red
 blue
 black
 brown
+mauve i am adding color mauve
 yellow
 these are color of rainbow
