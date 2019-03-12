@@ -3,6 +3,7 @@ red
 blue
 black
 brown
+pink
 mauve 
 yellow
 these are color of rainbow
